@@ -1,0 +1,166 @@
+[
+  {
+    "name":"Treasure Chest",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "sprite":{
+          "name":"sys/!$chest-opengameart-Blarumyrran.png",
+          "spriteIndex":0,
+          "dir":0,
+          "step":1
+        },
+        "height":1,
+        "affixDirection":true,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":true,
+        "cmds":[
+          {
+            "jsonClass":"AddRemoveItem",
+            "add":true,
+            "itemId":{
+              "jsonClass":"IntParameter",
+              "constant":0,
+              "valueTypeId":1,
+              "localVariable":"itemId",
+              "globalVariable":""
+            },
+            "quantity":{
+              "jsonClass":"IntParameter",
+              "constant":1,
+              "valueTypeId":0,
+              "localVariable":"",
+              "globalVariable":""
+            }
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Received \\J[getItemName(itemId)]."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      },
+      {
+        "conditions":[
+          
+        ],
+        "sprite":{
+          "name":"sys/!$chest-opengameart-Blarumyrran.png",
+          "spriteIndex":0,
+          "dir":3,
+          "step":1
+        },
+        "height":1,
+        "affixDirection":true,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "It's empty."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name":"portaa",
+    "states":[
+      {
+        "conditions":[
+          
+        ],
+        "sprite":{
+          "name":"sys/!object.png",
+          "spriteIndex":2,
+          "dir":0,
+          "step":0
+        },
+        "height":1,
+        "affixDirection":true,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Você tenta abrir a porta de uma casa aleatória..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Mas a porta está trancada, obviamente..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Por que você acho que seria uma boa ideia fazer isso?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      },
+      {
+        "conditions":[
+          
+        ],
+        "sprite":{
+          "name":"sys/!object.png",
+          "spriteIndex":2,
+          "dir":0,
+          "step":0
+        },
+        "height":1,
+        "affixDirection":true,
+        "trigger":1,
+        "animationType":0,
+        "runOnceThenIncrementState":false,
+        "cmds":[
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Você tenta abrir a porta de uma casa aleatória..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Mas a porta está trancada, obviamente..."
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          },
+          {
+            "jsonClass":"ShowText",
+            "lines":[
+              "Por que você acho que seria uma boa ideia fazer isso?"
+            ],
+            "useCharacterFace":false,
+            "characterId":0
+          }
+        ]
+      }
+    ]
+  }
+]

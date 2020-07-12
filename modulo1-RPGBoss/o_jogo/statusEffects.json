@@ -1,0 +1,183 @@
+[
+  {
+    "name":"Minor Strenght",
+    "effects":[
+      {
+        "keyId":302,
+        "v1":15,
+        "v2":0
+      }
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"Minor Magic",
+    "effects":[
+      {
+        "keyId":304,
+        "v1":15,
+        "v2":0
+      }
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"Minor Body",
+    "effects":[
+      {
+        "keyId":305,
+        "v1":10,
+        "v2":0
+      },
+      {
+        "keyId":306,
+        "v1":10,
+        "v2":0
+      }
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"Ablaze",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"Burn",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"Bêbado",
+    "effects":[
+      {
+        "keyId":301,
+        "v1":-1,
+        "v2":0
+      }
+    ],
+    "releaseChancePerTick":80,
+    "maxStacks":3
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  },
+  {
+    "name":"",
+    "effects":[
+      
+    ],
+    "releaseChancePerTick":10,
+    "maxStacks":1
+  }
+]

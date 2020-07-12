@@ -1,0 +1,308 @@
+[
+  {
+    "name":"# Goblin",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 3 x Goblin",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":13,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":13,
+        "x":342,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Goblin, Goblincmdr",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":13,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":15,
+        "x":342,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Goblin, Goblinwiz",
+    "units":[
+      {
+        "enemyIdx":13,
+        "x":255,
+        "y":155
+      },
+      {
+        "enemyIdx":21,
+        "x":240,
+        "y":265
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Goblinninja, Goblinrider",
+    "units":[
+      {
+        "enemyIdx":16,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":16,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":17,
+        "x":342,
+        "y":210
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# 2 x Goblinshaman, 2 x Goblinwat",
+    "units":[
+      {
+        "enemyIdx":18,
+        "x":167,
+        "y":155
+      },
+      {
+        "enemyIdx":18,
+        "x":152,
+        "y":265
+      },
+      {
+        "enemyIdx":20,
+        "x":342,
+        "y":155
+      },
+      {
+        "enemyIdx":20,
+        "x":327,
+        "y":265
+      }
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"# Fossilskel",
+    "units":[
+      {
+        "enemyIdx":9,
+        "x":255,
+        "y":210
+      }
+    ],
+    "canEscape":false,
+    "escapeChance":0.7,
+    "events":[
+      {
+        "conditions":[
+          
+        ],
+        "cmds":[
+          
+        ],
+        "maxFrequency":1
+      }
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  },
+  {
+    "name":"#<None>",
+    "units":[
+      
+    ],
+    "canEscape":true,
+    "escapeChance":0.7,
+    "events":[
+      
+    ]
+  }
+]

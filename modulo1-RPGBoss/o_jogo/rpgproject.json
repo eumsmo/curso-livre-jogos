@@ -1,0 +1,101 @@
+{
+  "uuid":"079a51c8-e071-48ce-a19f-faa50a409cd3",
+  "title":"O Jogo",
+  "recentMapName":"",
+  "lastCreatedMapId":7,
+  "startup":{
+    "startingLoc":{
+      "map":"Map000004.rpgmap",
+      "x":10.5,
+      "y":23.5
+    },
+    "startingParty":[
+      0
+    ],
+    "titlePic":"sys/LordSpirit.jpg",
+    "titleMusic":{
+      "sound":"sys/aaron_mcdonald/Titus Andronicus - An Affinity for Blood.mid",
+      "volume":1.0,
+      "pitch":1.0
+    },
+    "gameOverPic":"sys/GameOver.png",
+    "gameOverMusic":{
+      "sound":"sys/aaron_mcdonald/Macbeth - Cue 2.mid",
+      "volume":1.0,
+      "pitch":1.0
+    },
+    "screenW":640,
+    "screenH":480,
+    "fullscreen":false,
+    "windowIcon":"sys/icon.png",
+    "windowskin":"sys/LastPhantasmScanlines.png",
+    "msgfont":"sys/VeraMono.ttf",
+    "fontsize":24,
+    "stringInputCharacters":"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 -._",
+    "soundCursor":{
+      "sound":"sys/rpgboss-menu/MenuCursor.ogg",
+      "volume":1.0,
+      "pitch":1.0
+    },
+    "soundSelect":{
+      "sound":"sys/rpgboss-menu/MenuSelect.ogg",
+      "volume":1.0,
+      "pitch":1.0
+    },
+    "soundCancel":{
+      "sound":"sys/rpgboss-menu/MenuCancel.ogg",
+      "volume":1.0,
+      "pitch":1.0
+    },
+    "soundCannot":{
+      "sound":"sys/rpgboss-menu/MenuCannot.ogg",
+      "volume":1.0,
+      "pitch":1.0
+    }
+  },
+  "enums":null,
+  "messages":{
+    "Defeated...":"Defeated...",
+    "Use":"Use",
+    "Back to titlescreen":"Back to titlescreen",
+    "Equip":"Equip",
+    "Quit":"Quit",
+    "Quit game":"Quit game",
+    "Enter new name for: ":"Enter new name for: ",
+    "Offhand":"Offhand",
+    "Max HP:":"Max HP:",
+    "Save":"Save",
+    "Load Game":"Load Game",
+    "Not enough MP...":"Not enough MP...",
+    "LVL":"LVL",
+    "HP":"HP",
+    "Escape failed...":"Escape failed...",
+    "Skill":"Skill",
+    "Defeat":"Defeat",
+    "MRE:":"MRE:",
+    "Gold:":"Gold:",
+    "Buy":"Buy",
+    "Escape":"Escape",
+    "Attack":"Attack",
+    "Skills":"Skills",
+    "MAG:":"MAG:",
+    "ATK:":"ATK:",
+    "Empty":"Empty",
+    "Escape impossible...":"Escape impossible...",
+    "Accessory":"Accessory",
+    "Owned:":"Owned:",
+    "Item":"Item",
+    "Organize":"Organize",
+    "Max MP:":"Max MP:",
+    "Armor":"Armor",
+    "New Game":"New Game",
+    "ARM:":"ARM:",
+    "Weapon":"Weapon",
+    "MP":"MP",
+    "Sell":"Sell",
+    "SPD:":"SPD:",
+    "Escaped...":"Escaped...",
+    "Status":"Status",
+    "Store":"Store"
+  }
+}

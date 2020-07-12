@@ -1,0 +1,4721 @@
+[
+  {
+    "name":"Basilisk",
+    "battler":{
+      "name":"sys/Public/basilisk.png",
+      "scale":1.5
+    },
+    "level":50,
+    "mhp":5000,
+    "mmp":40,
+    "atk":1,
+    "spd":10,
+    "mag":1,
+    "arm":1,
+    "mre":1,
+    "expValue":10,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":64,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      52,
+      5,
+      3,
+      4
+    ]
+  },
+  {
+    "name":"Birdman",
+    "battler":{
+      "name":"sys/Redshrike/birdman.png",
+      "scale":1.5
+    },
+    "level":3,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":80,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Darklord",
+    "battler":{
+      "name":"sys/Redshrike/darklord.png",
+      "scale":1.3
+    },
+    "level":5,
+    "mhp":30,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":20,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      30,
+      20
+    ]
+  },
+  {
+    "name":"Darkoctopus",
+    "battler":{
+      "name":"sys/Redshrike/darkoctopus.png",
+      "scale":2.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":10000,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Eaglebadass",
+    "battler":{
+      "name":"sys/Redshrike/eaglebadass.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Floateye",
+    "battler":{
+      "name":"sys/Redshrike/floateye.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fossilbird",
+    "battler":{
+      "name":"sys/Redshrike/fossilbird.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fossilgator",
+    "battler":{
+      "name":"sys/Redshrike/fossilgator.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fossilray",
+    "battler":{
+      "name":"sys/Redshrike/fossilray.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fossilskel",
+    "battler":{
+      "name":"sys/Redshrike/fossilskel.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"FossilTrex",
+    "battler":{
+      "name":"sys/Redshrike/fossilTrex.png",
+      "scale":1.3
+    },
+    "level":5,
+    "mhp":50,
+    "mmp":40,
+    "atk":12,
+    "spd":10,
+    "mag":10,
+    "arm":12,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fourarmedthing",
+    "battler":{
+      "name":"sys/Redshrike/fourarmedthing.png",
+      "scale":1.3
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":15,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Gargoyle",
+    "battler":{
+      "name":"sys/Redshrike/gargoyle.png",
+      "scale":1.2
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":16,
+    "mag":15,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblin",
+    "battler":{
+      "name":"sys/Redshrike/goblin.png",
+      "scale":1.3
+    },
+    "level":6,
+    "mhp":60,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":18,
+    "arm":10,
+    "mre":10,
+    "expValue":120,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      42,
+      39,
+      40
+    ]
+  },
+  {
+    "name":"Goblinarmor",
+    "battler":{
+      "name":"sys/Redshrike/goblinarmor.png",
+      "scale":2.4
+    },
+    "level":8,
+    "mhp":160,
+    "mmp":40,
+    "atk":20,
+    "spd":10,
+    "mag":10,
+    "arm":19,
+    "mre":10,
+    "expValue":300,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      42,
+      39,
+      43,
+      40,
+      41
+    ]
+  },
+  {
+    "name":"Goblincmdr",
+    "battler":{
+      "name":"sys/Redshrike/goblincmdr.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblinninja",
+    "battler":{
+      "name":"sys/Redshrike/goblinninja.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblinrider",
+    "battler":{
+      "name":"sys/Redshrike/goblinrider.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblinshaman",
+    "battler":{
+      "name":"sys/Redshrike/goblinshaman.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblinswdsld",
+    "battler":{
+      "name":"sys/Redshrike/goblinswdsld.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblinwat",
+    "battler":{
+      "name":"sys/Redshrike/goblinwat.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goblinwiz",
+    "battler":{
+      "name":"sys/Redshrike/goblinwiz.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Golem",
+    "battler":{
+      "name":"sys/Redshrike/golem.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Greenhunch",
+    "battler":{
+      "name":"sys/Redshrike/greenhunch.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Greenlizardlike",
+    "battler":{
+      "name":"sys/Redshrike/greenlizardlike.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Jack",
+    "battler":{
+      "name":"sys/Redshrike/jack.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Jackvines",
+    "battler":{
+      "name":"sys/Redshrike/jackvines.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Lionman",
+    "battler":{
+      "name":"sys/Redshrike/lionman.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Mushrooman",
+    "battler":{
+      "name":"sys/Redshrike/mushroomman.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Octoeye",
+    "battler":{
+      "name":"sys/Redshrike/octoeye.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ooze",
+    "battler":{
+      "name":"sys/Redshrike/ooze.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Oozeskull",
+    "battler":{
+      "name":"sys/Redshrike/oozeskull.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ratarcher",
+    "battler":{
+      "name":"sys/MrBeast/ratarcher.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ratcleric",
+    "battler":{
+      "name":"sys/MrBeast/ratcleric.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ratdoubleswd",
+    "battler":{
+      "name":"sys/MrBeast/ratdoubleswd.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ratswdshd",
+    "battler":{
+      "name":"sys/MrBeast/ratswdshd.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ratthief",
+    "battler":{
+      "name":"sys/MrBeast/rattheif.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skel",
+    "battler":{
+      "name":"sys/Redshrike/skel.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelball",
+    "battler":{
+      "name":"sys/Redshrike/skelball.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelflam",
+    "battler":{
+      "name":"sys/Redshrike/skelflam.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelhelm",
+    "battler":{
+      "name":"sys/Redshrike/skelhelm.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelhelmsld",
+    "battler":{
+      "name":"sys/Redshrike/skelhelmshld.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelswdsld",
+    "battler":{
+      "name":"sys/Redshrike/skelswdsld.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skeltail",
+    "battler":{
+      "name":"sys/Redshrike/skeltail.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelwiz",
+    "battler":{
+      "name":"sys/Redshrike/skelwiz.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Spider",
+    "battler":{
+      "name":"sys/Redshrike/spider.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Turtlespike",
+    "battler":{
+      "name":"sys/Redshrike/turtlespike.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Wasp",
+    "battler":{
+      "name":"sys/Redshrike/wasp.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Wizard",
+    "battler":{
+      "name":"sys/Public/wizard.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alien1",
+    "battler":{
+      "name":"sys/C+/Alien.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alien2",
+    "battler":{
+      "name":"sys/C+/Alien2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alien3",
+    "battler":{
+      "name":"sys/C+/Alien3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TokaTokaReis1",
+    "battler":{
+      "name":"sys/MinusCreate/TokaTokaReis.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TokaTokaReis2",
+    "battler":{
+      "name":"sys/MinusCreate/TokaTokaReis2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TokaTokaReis3",
+    "battler":{
+      "name":"sys/MinusCreate/TokaTokaReis3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Unknown1",
+    "battler":{
+      "name":"sys/MinusCreate/Unknown.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Unknown2",
+    "battler":{
+      "name":"sys/MinusCreate/Unknown2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Unknown3",
+    "battler":{
+      "name":"sys/MinusCreate/Unknown3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Frogtrident",
+    "battler":{
+      "name":"sys/Redshrike/frogtrident.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Blackcrow",
+    "battler":{
+      "name":"sys/Redshrike/blackcrow.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Hogaxe",
+    "battler":{
+      "name":"sys/Redshrike/hogaxe.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skeltauren",
+    "battler":{
+      "name":"sys/Redshrike/skeltauren.png",
+      "scale":1.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon1",
+    "battler":{
+      "name":"sys/Redshrike/dragon1.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon2",
+    "battler":{
+      "name":"sys/Redshrike/dragon2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon3",
+    "battler":{
+      "name":"sys/Redshrike/dragon3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon4",
+    "battler":{
+      "name":"sys/Redshrike/dragon4.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon5",
+    "battler":{
+      "name":"sys/Redshrike/dragon5.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon6",
+    "battler":{
+      "name":"sys/Surt/dragon6.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon7",
+    "battler":{
+      "name":"sys/Zabin/dragon7.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon8",
+    "battler":{
+      "name":"sys/Blarumyrran/dragon8.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon9",
+    "battler":{
+      "name":"sys/MrBeast/dragon9.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon10",
+    "battler":{
+      "name":"sys/Blarumyrran/dragon10.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dragon11",
+    "battler":{
+      "name":"sys/Sharm/dragon11.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"KamaitachiGras1",
+    "battler":{
+      "name":"sys/NormalArmy/KamaitachiGras.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"KamaitachiGras2",
+    "battler":{
+      "name":"sys/NormalArmy/KamaitachiGras2.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"KamaitachiGras3",
+    "battler":{
+      "name":"sys/NormalArmy/KamaitachiGras3.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Streammonster1",
+    "battler":{
+      "name":"sys/Public/streammonster1.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Streammonster2",
+    "battler":{
+      "name":"sys/Public/streammonster2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Streammonster3",
+    "battler":{
+      "name":"sys/Public/streammonster3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Streammonster4",
+    "battler":{
+      "name":"sys/Public/streammonster4.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Streammonster5",
+    "battler":{
+      "name":"sys/Public/streammonster5.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Griffin",
+    "battler":{
+      "name":"sys/Momothecat/mohrthegriffin.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Cyberhound",
+    "battler":{
+      "name":"sys/AncientBeast/cyberhound.png",
+      "scale":0.3
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Theexecutor",
+    "battler":{
+      "name":"sys/Isaacbird/theexecutor.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Warlock",
+    "battler":{
+      "name":"sys/Isaacbird/warlock.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Blade",
+    "battler":{
+      "name":"sys/Isaacbird/blade.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Goldenwyrm",
+    "battler":{
+      "name":"sys/Katarzyna/goldenwyrm.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Magmaspawn",
+    "battler":{
+      "name":"sys/Katarzyna/magmaspawn.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Volpyr",
+    "battler":{
+      "name":"sys/Katarzyna/volpyr.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Impaler",
+    "battler":{
+      "name":"sys/Katarzyna/impaler.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Akhorthegriffin",
+    "battler":{
+      "name":"sys/Momothecat/akhorthegriffin.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Robot1",
+    "battler":{
+      "name":"sys/Redshrike/robot1.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Robot2",
+    "battler":{
+      "name":"sys/Redshrike/robot2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Robot3",
+    "battler":{
+      "name":"sys/Redshrike/robot3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Lacriatura",
+    "battler":{
+      "name":"sys/Public/Lacriatura.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Strangecreature1",
+    "battler":{
+      "name":"sys/Ramtam/strangecreature1.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Strangecreature2",
+    "battler":{
+      "name":"sys/Ramtam/strangecreature2.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienbug",
+    "battler":{
+      "name":"sys/Redshrike/alienbug.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienbug2",
+    "battler":{
+      "name":"sys/Redshrike/alienbug2.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienbug3",
+    "battler":{
+      "name":"sys/Redshrike/alienbug3.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienbug4",
+    "battler":{
+      "name":"sys/Redshrike/alienbug4.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienbug5",
+    "battler":{
+      "name":"sys/Redshrike/alienbug5.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienmoth",
+    "battler":{
+      "name":"sys/Redshrike/alienmoth.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Alienworm",
+    "battler":{
+      "name":"sys/Redshrike/alienworm.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bat",
+    "battler":{
+      "name":"sys/Surt/bat.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Birdy",
+    "battler":{
+      "name":"sys/Public/birdy.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Blackspider",
+    "battler":{
+      "name":"sys/Surt/blackspider.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Blob",
+    "battler":{
+      "name":"sys/Public/blob.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bluefly",
+    "battler":{
+      "name":"sys/Surt/bluefly.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bluemushroomkid",
+    "battler":{
+      "name":"sys/Surt/bluemushroomkid.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bluemushroomman",
+    "battler":{
+      "name":"sys/Surt/bluemushroomman.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bluesnake",
+    "battler":{
+      "name":"sys/Surt/bluesnake.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bluespider",
+    "battler":{
+      "name":"sys/Surt/bluespider.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Demon1",
+    "battler":{
+      "name":"sys/Public/demon1.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Demonminion",
+    "battler":{
+      "name":"sys/Surt/demonminion.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fightingrobot",
+    "battler":{
+      "name":"sys/Redshrike/fightingrobot.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Flameminion1",
+    "battler":{
+      "name":"sys/Surt/flameminion.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Flameminion2",
+    "battler":{
+      "name":"sys/Surt/flameminion2.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Flameminion3",
+    "battler":{
+      "name":"sys/Surt/flameminion3.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Ghost1",
+    "battler":{
+      "name":"sys/Surt/Ghost1.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Greenmushroomkid",
+    "battler":{
+      "name":"sys/Surt/greenmushroomkid.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Greenmushroomman",
+    "battler":{
+      "name":"sys/Surt/greenmushroomman.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Greenshld",
+    "battler":{
+      "name":"sys/Surt/greenshld.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Heavyknight",
+    "battler":{
+      "name":"sys/Surt/heavyknight.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Hornet",
+    "battler":{
+      "name":"sys/Surt/hornet.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Mouse",
+    "battler":{
+      "name":"sys/Surt/mouse.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Mushroom1",
+    "battler":{
+      "name":"sys/Public/mushroom1.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Pirana",
+    "battler":{
+      "name":"sys/Surt/pirana.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Rat",
+    "battler":{
+      "name":"sys/Surt/rat.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Redcarb",
+    "battler":{
+      "name":"sys/Surt/redcarb.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Redmushroomkid",
+    "battler":{
+      "name":"sys/Surt/redmushroomkid.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Redmushroomman",
+    "battler":{
+      "name":"sys/Surt/redmushroomman.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Redsnake",
+    "battler":{
+      "name":"sys/Surt/redsnake.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Skelshld",
+    "battler":{
+      "name":"sys/Surt/sys/Surt/skelshld.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Snail",
+    "battler":{
+      "name":"sys/Surt/snail.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Whitebird",
+    "battler":{
+      "name":"sys/Surt/whitebird.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Whiteworm",
+    "battler":{
+      "name":"sys/Surt/whiteworm.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Whitewormkid",
+    "battler":{
+      "name":"sys/Surt/whitewormkid.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Wingshld",
+    "battler":{
+      "name":"sys/Surt/wingshld.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Xeno",
+    "battler":{
+      "name":"sys/Redshrike/xeno.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bigrat",
+    "battler":{
+      "name":"sys/Godlesshenk/Bigrat.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Charon",
+    "battler":{
+      "name":"sys/JustinNichol/Charon.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Deadlyalienbug",
+    "battler":{
+      "name":"sys/Godlesshenk/Deadlyalienbug.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Gohomewithenemyhead",
+    "battler":{
+      "name":"sys/Godlesshenk/Gohomewithenemyhead.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Newdron",
+    "battler":{
+      "name":"sys/Killoverdrive/Newdron.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Overweightgnarl",
+    "battler":{
+      "name":"sys/Buch/Overweightgnarl.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TheImp",
+    "battler":{
+      "name":"sys/JustinNichol/TheImp.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TheKappa",
+    "battler":{
+      "name":"sys/JustinNichol/TheKappa.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TheKraken",
+    "battler":{
+      "name":"sys/JustinNichol/TheKraken.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"TheWisp",
+    "battler":{
+      "name":"sys/JustinNichol/TheWisp.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Trex",
+    "battler":{
+      "name":"sys/Richtaur/Trex.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Reaper",
+    "battler":{
+      "name":"sys/P0ss/reaper.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Templar",
+    "battler":{
+      "name":"sys/Killoverdrive/templar.png",
+      "scale":0.15
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Firecreature",
+    "battler":{
+      "name":"sys/Benalene/firecreature.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Icecreature",
+    "battler":{
+      "name":"sys/Benalene/icecreature.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Dogun",
+    "battler":{
+      "name":"sys/Killoverdrive/dogun.png",
+      "scale":0.25
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Assassin",
+    "battler":{
+      "name":"sys/Junkie/assassin.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Bat",
+    "battler":{
+      "name":"sys/Junkie/bat.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Catoblepas",
+    "battler":{
+      "name":"sys/Junkie/catoblepas.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Evilsword",
+    "battler":{
+      "name":"sys/Junkie/evilsword.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Fireball",
+    "battler":{
+      "name":"sys/Junkie/fireball.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Hauntedmansion",
+    "battler":{
+      "name":"sys/Junkie/hauntedmansion.png",
+      "scale":1.0
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Muspel",
+    "battler":{
+      "name":"sys/Junkie/muspel.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Musyaarmor",
+    "battler":{
+      "name":"sys/Junkie/musyaarmor.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Serpent",
+    "battler":{
+      "name":"sys/Junkie/serpent.png",
+      "scale":0.51
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Slimesf",
+    "battler":{
+      "name":"sys/Junkie/slimesf.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Snake",
+    "battler":{
+      "name":"sys/Junkie/snake.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Wyvern",
+    "battler":{
+      "name":"sys/Junkie/wyvern.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Yasaijin",
+    "battler":{
+      "name":"sys/Junkie/yasaijin.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Eaglel",
+    "battler":{
+      "name":"sys/Kirara/eaglel.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"Eagler",
+    "battler":{
+      "name":"sys/Kirara/eagler.png",
+      "scale":0.5
+    },
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"",
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"",
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"",
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  },
+  {
+    "name":"",
+    "level":5,
+    "mhp":40,
+    "mmp":40,
+    "atk":10,
+    "spd":10,
+    "mag":10,
+    "arm":10,
+    "mre":10,
+    "expValue":100,
+    "droppedGold":25,
+    "droppedItems":[
+      
+    ],
+    "attackSkillId":0,
+    "effects":[
+      
+    ],
+    "skillIds":[
+      
+    ]
+  }
+]
