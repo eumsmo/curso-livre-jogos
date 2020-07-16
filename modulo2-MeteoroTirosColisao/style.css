@@ -1,0 +1,14 @@
+canvas {
+    border: 1px solid black;
+    width: 800px;
+    height: 400px;
+    image-rendering: pixelated;
+}
+
+html{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
