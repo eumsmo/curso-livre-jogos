@@ -7,6 +7,7 @@ export default class CenaGameOver extends Phaser.Scene {
 
     init(data){
         this.moedas = data.moedas || 0;
+        this.tempo_passado = data.tempo || 0;
     }
 
     preload() {
@@ -25,7 +26,10 @@ export default class CenaGameOver extends Phaser.Scene {
         this.gameover = this.add.text(200, 80, 'GAME OVER', { align: "center", fontSize: '48px', fill: '#f00', stroke: "#f00", strokeThickness: 2 }).setOrigin(0.5, 0.5);
         
         this.textoPontuacao = this.add.text(80, 120, 'Pontuação:', { align: "center", fontSize: '24px', fill: '#fff' }).setOrigin(0, 0.5);
-        this.pontuacao = this.add.text(240, 120, "00000", { fontSize: '24px', fill: '#fff' }).setOrigin(0, 0.5);
+        this.pontuacao = this.add.text(240, 120, "00000", { fontSize: '24px', fill: '#ff0' }).setOrigin(0, 0.5);
+
+        this.textoTempo = this.add.text(137, 150, 'Tempo:', { align: "center", fontSize: '24px', fill: '#fff' }).setOrigin(0, 0.5);
+        this.tempo = this.add.text(240, 150, this.tempo_passado+"s", { fontSize: '24px', fill: '#ff0' }).setOrigin(0, 0.5);
 
         
         this.add.rectangle(354, 218, 80, 30, 0x00bb00).setOrigin(0.5, 0.5);

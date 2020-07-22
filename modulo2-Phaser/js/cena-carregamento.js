@@ -23,6 +23,7 @@ export default class CenaCarregamento extends Phaser.Scene {
 
         this.load.on('complete', () => {
             this.scene.start('CenaJogo');
+            //this.scene.start('CenaGameOver');
         });
 
         // todos os recursos que devem ser pré-carregados

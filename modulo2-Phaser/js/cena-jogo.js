@@ -53,9 +53,22 @@ export default class CenaJogo extends Phaser.Scene {
         this.bombas = this.physics.add.group();
         this.physics.add.collider(this.bombas, plataformas);
         this.physics.add.collider(this.jogador.sprite, this.bombas, this.bateNaBomba, null, this);
+
+        if(window.location.search.startsWith("?speedrun")){
+            this.mostra_tempo = this.add.text(392, 8, "0.00s", { fontSize: '32px', fill: '#000', stroke: "#000", strokeThickness: 1}).setOrigin(1,0);
+            this.speedrun = true;
+        }
+        this.tempo_inicial = Date.now();
     }
 
     update() {
+        this.diferenca_tempo = ((Date.now() - this.tempo_inicial) / 1000).toFixed(2);
+
+        if(this.speedrun){
+            this.mostra_tempo.setText(this.diferenca_tempo + "s") ;
+        }
+
+
         // cria um atalho pra evitar ficar digitando "this.jogador.sprite"
         const jogador = this.jogador.sprite;
 
@@ -113,7 +126,7 @@ export default class CenaJogo extends Phaser.Scene {
         this.physics.pause();
         jogador.setTint(0xff0000);
         setTimeout(()=>{
-            this.scene.start('CenaGameOver', {moedas: this.count_moedas});
+            this.scene.start('CenaGameOver', {moedas: this.count_moedas, tempo: this.diferenca_tempo});
         },200);
     }
 }
