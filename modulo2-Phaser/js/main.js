@@ -1,5 +1,6 @@
 import CenaCarregamento from './cena-carregamento.js';
 import CenaJogo from './cena-jogo.js';
+import CenaGameOver from './cena-gameover.js';
 
 const config = {
     type: Phaser.AUTO,
@@ -16,7 +17,8 @@ const config = {
     },
     scene: [
         CenaCarregamento,
-        CenaJogo
+        CenaJogo,
+        CenaGameOver
     ]
 };
 

@@ -112,6 +112,8 @@ export default class CenaJogo extends Phaser.Scene {
     bateNaBomba(jogador,bomba){
         this.physics.pause();
         jogador.setTint(0xff0000);
-        this.fimJogo = true;
+        setTimeout(()=>{
+            this.scene.start('CenaGameOver', {moedas: this.count_moedas});
+        },200);
     }
 }
