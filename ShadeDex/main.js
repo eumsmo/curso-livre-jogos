@@ -55,7 +55,9 @@ function completaDetalhes(detalhes){
 
     detailSeasonsEl.innerHTML = "";
     for(let temporada of detalhes.seasons){
-        detailSeasonsEl.innerHTML += seasonTemplate(temporada.seasonNumber);
+        let nome_temporada = temporada.seasonNumber;
+        nome_temporada = nome_temporada.startsWith("A")? "Rupaul's All Stars "+nome_temporada.slice(1) : "Rupaul's Drag Race "+nome_temporada;
+        detailSeasonsEl.innerHTML += seasonTemplate(nome_temporada);
     }
 
     let desafios = detalhes.challenges.reduce((prev, atual)=>{
