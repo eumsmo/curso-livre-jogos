@@ -4,7 +4,7 @@ import { capitalize } from './capitalize.js';
 import { friendlyFetch } from './data.js';
 
 // endereço da API: usado para fazer as requisições
-const api = 'http://www.nokeynoshade.party/api/';
+const api = 'https://www.nokeynoshade.party/api/';
 const urls = {
     queens(id="all") { 
         return api + "queens/"+id;
