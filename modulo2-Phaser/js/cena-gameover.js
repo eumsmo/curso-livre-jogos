@@ -19,6 +19,8 @@ export default class CenaGameOver extends Phaser.Scene {
     }
 
     create() {
+        this.teclas = this.input.keyboard.createCursorKeys();
+
         this.aux_moedas = 0;
         this.contador = 0;
 
@@ -41,6 +43,10 @@ export default class CenaGameOver extends Phaser.Scene {
     }
 
     update(tempo) {
+
+        if (this.teclas.space.isDown) {
+            this.scene.start('CenaJogo');
+        }
 
         if (this.aux_moedas < this.moedas){
             this.contador++;

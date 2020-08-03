@@ -62,6 +62,10 @@ export default class CenaJogo extends Phaser.Scene {
     }
 
     update() {
+        if(this.teclas.space.isDown){
+            this.scene.restart();
+        }
+
         this.diferenca_tempo = ((Date.now() - this.tempo_inicial) / 1000).toFixed(2);
 
         if(this.speedrun){
